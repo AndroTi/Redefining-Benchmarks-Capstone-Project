@@ -44,11 +44,13 @@ Potential Uses for this work
 * Use this for valuation. If you are running a valuation of a stock, this model will return stocks that have similar financial stats and might help pick the multiples that are the most appropriate. 
 * If a PM today, working within a benchmark, were to use this analysis it would allow a preliminary separation of stocks that would either either over or underperform, reducing the number and prioritizing the order of stocks that a fundamental analysis would be carried out on.,
 
+![](images/dendrogram.png)
+
 2. Apply new stocks to Existing Benchmarks
 
 * If you have a new stock entering the company and you are not sure which benchmarks you can apply it to we use a Decision Tree with the existing labels and the stocks' financial data to classify any new stocks.
 
-
+![](images/decision_tree.png)
 
 
 
